@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+Lis<String> nombre = <String> ["MARIO", "LUIS", "ABDREA", "MANUEL", "JOSE"];
+
 void main() {
   runApp(const MyApp());
 }
